@@ -13,13 +13,13 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Pep-DEV101/PepBoard.git"
+      "url": "git+https://github.com/Raj-rgp/Whiteboard_Live.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Pep-DEV101/PepBoard/issues"
+      "url": "https://github.com/Raj-rgp/Whiteboard_Live/issues"
     },
-    "homepage": "https://github.com/Pep-DEV101/PepBoard#readme"
+    "homepage": "https://github.com/Raj-rgp/Whiteboard_Live"
   }
